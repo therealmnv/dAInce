@@ -1,5 +1,5 @@
 # dAInce  
-This app uses PoseNet developed by Google's Tensorflow and ml5.js, a JavaScript library, which helps us track our body movement. This application canbe used to perfect your dance moves...  
+This app uses PoseNet developed by Google's Tensorflow and ml5.js, a JavaScript library, which helps us track our body movement. This application can be used to perfect your dance moves...  
 
 https://www.youtube.com/watch?v=oIRfDjJ2iv8&feature=emb_title&ab_channel=R4AI  
 
