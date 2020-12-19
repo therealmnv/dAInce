@@ -3,7 +3,7 @@ This app uses PoseNet developed by Google's Tensorflow and ml5.js, a JavaScript 
 
 https://www.youtube.com/watch?v=oIRfDjJ2iv8&feature=emb_title&ab_channel=R4AI  
 
-  This project has been inspired by Cristina Maillo's YogAI application. The following resources helped us build our application.  
+  This project has been inspired by Cristina Maillo's YogAI application. The following resources helped us build our application:  
   
 https://github.com/cris-maillo/yogAI  
 https://medium.com/@priyaanka.garg/comparison-of-human-poses-with-posenet-e9ffc36b7427  
